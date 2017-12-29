@@ -3,12 +3,12 @@ database information:
 Change your database username and password in db.php file.
 
 
-Create Database Using the following Query:
+Database:
 
 CREATE DATABASE IF NOT EXISTS register;
 
 
-and Create Table either using the below SQL query:
+Table structure 
 
 CREATE TABLE IF NOT EXISTS register.`users` (
  `id` int(11) NOT NULL AUTO_INCREMENT,
